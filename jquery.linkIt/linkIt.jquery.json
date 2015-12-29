@@ -23,14 +23,12 @@
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+            "url": "https://github.com/scottbaron/jquery.linkit/blob/master/jquery.linkIt/License.txt"
         }
     ],
-    "bugs": "https://github.com/jquery/jquery-color/issues",
-    "homepage": "https://github.com/jquery/jquery-color",
-    "docs": "https://github.com/jquery/jquery-color",
-    "download": "http://code.jquery.com/#color",
+    "homepage": "https://github.com/scottbaron/jquery.linkit/tree/master/jquery.linkIt",
+    "docs": "https://github.com/scottbaron/jquery.linkit/tree/master/jquery.linkIt",
     "dependencies": {
-        "jquery": ">=1.5"
+        "jquery": ">=1.9"
     }
 }
