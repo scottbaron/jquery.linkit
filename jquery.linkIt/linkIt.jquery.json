@@ -1,0 +1,36 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt JQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Scott Baron",
+        "url": "https://github.com/scottbaron/jquery.linkit/tree/master/jquery.linkIt"
+    },
+    "maintainers": [
+        {
+            "name": "Scott Baron",
+            "email": "scott_baron@yahoo.com",
+            "url": "http://scotbaron.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/jquery/jquery-color/issues",
+    "homepage": "https://github.com/jquery/jquery-color",
+    "docs": "https://github.com/jquery/jquery-color",
+    "download": "http://code.jquery.com/#color",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
